@@ -1,0 +1,14 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.box{
+    background-color: darkgrey;
+}
+p, h2{
+    font-size: 18px;
+}
+.box-first-child p{
+    font-size: 14px;
+}
+
